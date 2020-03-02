@@ -1,0 +1,1 @@
+Iremos utilizar o Python devido ser uma linguagem de programação mais parecida com a linguagem natural
