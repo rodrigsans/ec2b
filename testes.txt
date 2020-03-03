@@ -1,0 +1,9 @@
+Os testes serão realizados durante o periodo de seis meses 
+em viagens experimentais gratuitas para os usuarios cadastrados no sistema de testes
+
+serão testados estabilidade do sistema
+confiabilidade do sistema
+rentabilidade do projeto
+segurança dos passageiros 
+gestão de emergencias 
+entre outros

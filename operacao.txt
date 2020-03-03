@@ -1,0 +1,5 @@
+O monitormento será feito via servidores na Nuvem 
+
+a implantação será nas plataformas android e Ios 
+
+será monitorado atraves de sistema de localização e suporte em tempo real 

@@ -1,0 +1,8 @@
+Design
+
+Aplicativo com interface azul
+Mostra a localização atual do usuário
+mostra foto do usuário 
+mostra a foto do modelo do carro que irá buscar o usuário
+opção de dar a nota pelo serviço prestado e reportar problemas
+ 

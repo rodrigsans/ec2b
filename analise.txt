@@ -1,0 +1,14 @@
+Escopo 
+
+A empresa x quer realizar viagens utilizando carros voadores com o preço da viagem de até 10 doláres
+
+
+O sistema deve:
+
+- Cadastrar os dados pessoais dos usuários
+- Cadastrar os dados financeiros dos usuários 
+- controlar as cobranças e formas de pagamentos das corridas
+- Cadastrar os carros
+- Interface com o sistema financeiro da companhia para controle contábil/financeiro
+- calcular o as viagens de acordo com distancia
+ 
